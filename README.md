@@ -1,10 +1,25 @@
 # Adrian Torres
 
+# Indice
+-[Titulo](#titulo-importante)
+-[Subtitulo1](#subtitulo-1)
+-[Subtitullo2](#subtitulo-2)
+-[Hipervinculo](#creando-hipervinculo)
+-[Imagenes](#colocando-imagenes)
+-[Funciones](#funciones)
+-[Tablas](#creando-tabla)
+-[Codigo](#código)
+-[Diagrama](#mermaid-diagramas)
+-[Diagrama2](#diagrama-de-tecsup)
+
 # Titulo Importante
 Aprendiendo *Markdown* en las clases del profesor Luis Pallin
 
 ## Subtitulo 1
-Aqui veremos como formatear diferentes **tipos de textos** usando ~Markdown~.
+Aqui veremos como formatear diferentes **tipos de textos**.
+
+## Subtitulo 2
+Podremos conocer diferentes tipos de formato de textos usando ~Markdown~.
 
 ### Creando Hipervinculo 
 
